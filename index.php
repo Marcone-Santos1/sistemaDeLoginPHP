@@ -63,6 +63,7 @@ if(isset($_POST['Email']) || isset($_POST['password'])){
                 <button type="submit">Entrar</button>
             </p>
         </form>
+            <a style="border: 1px solid black; background: #f88;" href="cadastrar.php">Cadastrar...</a> 
     </div>
 
 </body>
